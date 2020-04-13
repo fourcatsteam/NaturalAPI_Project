@@ -7,7 +7,7 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
 #### Per utilizzare il prodotto è necessario aver installato sul proprio sistema la JVM(Java Virtual Machine) inclusa in JRE(Java Runtime Environment) scaricabile al seguente link: [JRE](https://www.java.com/it/download/).
 ### Per scaricare e usare un modulo:
 1. Cliccare sul pulsante del modulo che si vuole scaricare;
-2. Per avviare correttamente il programma si necessita la creazione di 3 cartelle nella stessa posizione dei modulicon i seguenti nomi:
+2. Per avviare correttamente il programma si necessita la creazione di 3 cartelle nella stessa posizione dei moduli con i seguenti nomi: \
 Modulo | Cartella
 ------ | --------
 Modulo Discover | *txt_documents*
