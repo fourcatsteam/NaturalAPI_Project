@@ -28,4 +28,4 @@ _**N.B. Verificare che siano presenti o creare al bisogno le cartelle al punto 2
 
 
 
-[NaturalAPI](https://github.com/fourcatsteam/NaturalAPI) **is maintained by          ** <img src="https://github.com/fourcatsteam/NaturalAPI_Project/blob/master/img/logo.png" width="250">
+[NaturalAPI](https://github.com/fourcatsteam/NaturalAPI) **is maintained by**        <img src="https://github.com/fourcatsteam/NaturalAPI_Project/blob/master/img/logo.png" width="250">
