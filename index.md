@@ -24,8 +24,3 @@ _**N.B. Verificare che siano presenti o creare al bisogno le cartelle al punto 2
 3. Scaricare la repo in .zip;
 4. Estrarla nella posizione voluta;
 5. Per avviare l'esecuzione del programma seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto.
-
-___
-
-
-[NaturalAPI](https://github.com/fourcatsteam/NaturalAPI) **is maintained by**        <img src="https://github.com/fourcatsteam/NaturalAPI_Project/blob/master/img/logo.png" width="250">
