@@ -11,7 +11,7 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
    * Modulo Discover -> *txt_documents*
    * Modulo Design -> *gherkin_documents*
    * Modulo Develop -> *PLA_documents*
-3. Per avviare l'esecuzione del modulo selezionato seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto.
+3. Per avviare l'esecuzione del modulo selezionato seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto. \
 ### Per scaricare l'intera repo:
 1. Cliccare sul pulsante View on Github;
 2. Cliccare sul pulsante Clone/Download;
