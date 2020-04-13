@@ -13,7 +13,8 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
    * Modulo Discover -> *txt_documents*
    * Modulo Design -> *gherkin_documents*
    * Modulo Develop -> *PLA_documents*
-*_N.B. verificare che siano presenti o crearle al bisogno_* 
+   
+_**N.B. verificare che siano presenti o crearle al bisogno**_ 
 3. Per avviare l'esecuzione del modulo selezionato seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto.
 
 
