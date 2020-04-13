@@ -1,5 +1,7 @@
 ## Cos'è NaturalAPI?
-**NaturalAPI** è un toolkit in grado di generare automaticamente application programming interfaces (APIs) e i relativi unit test per un dato linguaggio di programmazione, partendo da feature e scenari in formato Gherkin e da documenti di testo inerenti al dominio di interesse. \
+**NaturalAPI** è un toolkit in grado di generare automaticamente application programming interfaces (APIs) e i relativi unit test per un dato linguaggio di programmazione, partendo da feature e scenari in formato Gherkin e da documenti di testo inerenti al dominio di interesse.
+
+
 Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Software**_ del *Corso di Laurea in Informatica dell'Università di Padova*.
 > *Maggiori informazioni possono essere reperite consultando la documentazione che verrà resa pubblica alla consegna del progetto.*
 
@@ -11,7 +13,9 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
    * Modulo Discover -> *txt_documents*
    * Modulo Design -> *gherkin_documents*
    * Modulo Develop -> *PLA_documents*
-3. Per avviare l'esecuzione del modulo selezionato seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto. \
+3. Per avviare l'esecuzione del modulo selezionato seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto.
+
+
 ### Per scaricare l'intera repo:
 1. Cliccare sul pulsante View on Github;
 2. Cliccare sul pulsante Clone/Download;
