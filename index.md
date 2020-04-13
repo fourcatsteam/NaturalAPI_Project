@@ -26,4 +26,4 @@ _**N.B. Verificare che siano presenti o creare al bisogno le cartelle al punto 2
 5. Per avviare l'esecuzione del programma seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto.
 
 
-[NaturalAPI](https://github.com/fourcatsteam/NaturalAPI) **is maintained by** ![](https://github.com/fourcatsteam/NaturalAPI_Project/blob/master/img/logo.png)
+[NaturalAPI](https://github.com/fourcatsteam/NaturalAPI) **is maintained by** ![](https://github.com/fourcatsteam/NaturalAPI_Project/blob/master/img/logo.png){:height="50%" width="50%"}
