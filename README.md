@@ -8,6 +8,8 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
 ### Per scaricare e usare un modulo:
 1. Cliccare sul pulsante del modulo che si vuole scaricare;
 2. Per avviare correttamente il programma si necessita la creazione di 3 cartelle nella stessa posizione dei modulicon i seguenti nomi:
+Modulo | Cartella
+------ | --------
 Modulo Discover | *txt_documents*
 Modulo Design | *gherkin_documents*
 Modulo Develop | *PLA_documents*
