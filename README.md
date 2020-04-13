@@ -18,3 +18,5 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
 3. Scaricare la repo in .zip;
 4. Estrarla nella posizione voluta;
 5. Per avviare l'esecuzione del programma seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto.
+
+È possibile consultare il sito di NaturalAPI a questo link: [NaturalAPI](https://fourcatsteam.github.io/NaturalAPI_Project/)
