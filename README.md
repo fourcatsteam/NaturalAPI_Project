@@ -6,5 +6,4 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
 ## Per iniziare:
 Se si vuole scaricare l'intera repo | Se si vuole scaricare solo i singoli moduli
 ----------------------------------- | -------------------------------------------
-
-1. È possibile scaricare l'intera repo cliccando sul pulsante ~View on Github~
+1. Cliccare sul pulsante ~~View on Github~~ | 1. Cliccare sul nome dei moduli che si vuole scaricare
