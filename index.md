@@ -9,10 +9,11 @@ Il progetto è creato dal team **FourCats** per l'esame di _**Ingegneria del Sof
 #### Per utilizzare il prodotto è necessario aver installato sul proprio sistema la JVM(Java Virtual Machine) inclusa in JRE(Java Runtime Environment) scaricabile al seguente link: [JRE](https://www.java.com/it/download/).
 ### Per scaricare e usare un modulo:
 1. Cliccare sul pulsante del modulo che si vuole scaricare;
-2. Il programma necessita tre cartelle nella stessa posizione dei moduli (*_N.B. verificare che siano presenti o crearle al bisogno_*) con i seguenti nomi:
+2. Il programma necessita tre cartelle nella stessa posizione dei moduli con i seguenti nomi:
    * Modulo Discover -> *txt_documents*
    * Modulo Design -> *gherkin_documents*
    * Modulo Develop -> *PLA_documents*
+   *_N.B. verificare che siano presenti o crearle al bisogno_* 
 3. Per avviare l'esecuzione del modulo selezionato seguire le indicazioni contenute nel Manuale Utente in dotazione con il prodotto.
 
 
