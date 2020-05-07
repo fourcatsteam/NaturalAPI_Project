@@ -3,7 +3,10 @@
 
 //Header
 $header-heading-color: #fff !default; //titoli header
-$header-bg-color: #f39c12; //sfondo header dx
-$header-bg-color-secondary: #333333; //sfondo header sx
+$header-bg-color: #76C1B9; //sfondo header dx
+$header-bg-color-secondary: #1B998B; //sfondo header sx
+
+//Text
+$section-headings-color: #1B998B;
 
 @import "{{ site.theme }}";
