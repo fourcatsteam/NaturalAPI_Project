@@ -10,9 +10,7 @@ The project is created by the **FourCats** team for the _**Software Engineering*
 ### To download and use a module:
 1. Click on the button of the module you want to download;
 2. The program needs three folders in the same location as the modules with the following names:
-   * Discover module-> *txt_documents*
-   * Design module-> *gherkin_documents*
-   * Develop module-> *PLA_documents*
+
 3. To start the execution of the selected module follow the instructions in the User Manual supplied with the product.
 
 _**N.B. Check that the folders in step 2 are present or create them as needed.**_ 
