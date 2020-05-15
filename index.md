@@ -3,7 +3,7 @@
 
 
 The project is created by the **FourCats** team for the _**Software Engineering**_ exam of the *Degree Course in Computer Science of the University of Padua*.
-> *More information can be found by consulting the documentation that will be made public when the project is delivered.*
+> *More information can be found by consulting the [documentation](https://github.com/fourcatsteam/NaturalAPI_Project/blob/master/Documentation).*
 
 ## To begin with:
 #### To use the product you must have installed on your system the JVM (Java Virtual Machine) included in JRE (Java Runtime Environment) downloadable at the following link: [JRE](https://www.java.com/it/download/).
@@ -17,7 +17,7 @@ The project is created by the **FourCats** team for the _**Software Engineering*
    * NaturalAPI Develop: needs in input a valid BAL, the output of the module Design in JSON format, and PLA in txt format; 
 3. To start the execution of the selected module follow the instructions in the User manual supplied with the product: the user can start the program via Command Line Interface (CLI) or Graphic User Interface (GUI).
 
-_**N.B. The format of the files needed by the modules can be found in the User manual v.1.0.0.**_ 
+_**N.B. The format of the files needed by the modules can be found in the [User manual v.1.0.0](https://github.com/fourcatsteam/NaturalAPI_Project/blob/master/Documentation/English/UserManual%20v1.0.0.pdf).**_ 
 
 
 ### To download the entire repo:
