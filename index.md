@@ -11,7 +11,7 @@ The project is created by the **FourCats** team for the _**Software Engineering*
 ### To download and use a module:
 1. Click on the button of the module you want to download;
 
-If you prefer you can also download the CLI version of the product:
+   If you prefer you can also download the CLI version of the product:
    * NaturalAPI Discover: https://drive.google.com/uc?export=download&id=15_JnrvbfJy6yvo3WkkJI-iDvLB8xcnhW
    * NaturalAPI Design: https://drive.google.com/uc?export=download&id=1wS7omd2ocXl8deO2ZSNEfV1eMXrujWL7
    * NaturalAPI Develop: https://drive.google.com/uc?export=download&id=13rqawUIRp76xcQOxpFDU46sz4IyJIb-g
