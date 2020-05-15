@@ -27,7 +27,7 @@ _**N.B. The format of the files needed by the modules can be found in the User m
 5. To start running the program follow the instructions in the User manual supplied with the product.
 
 
-### CLI version of NaturalAPI:
+### Download the CLI version of NaturalAPI here:
    * [NaturalAPI Discover CLI](https://drive.google.com/uc?export=download&id=15_JnrvbfJy6yvo3WkkJI-iDvLB8xcnhW)
    * [NaturalAPI Design CLI](https://drive.google.com/uc?export=download&id=1wS7omd2ocXl8deO2ZSNEfV1eMXrujWL7)
    * [NaturalAPI Develop CLI](https://drive.google.com/uc?export=download&id=13rqawUIRp76xcQOxpFDU46sz4IyJIb-g)
